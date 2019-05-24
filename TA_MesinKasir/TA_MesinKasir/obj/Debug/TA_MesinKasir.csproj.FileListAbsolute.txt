@@ -1,0 +1,9 @@
+c:\users\alfa_hm\documents\visual studio 2015\Projects\TA_MesinKasir\TA_MesinKasir\bin\Debug\TA_MesinKasir.exe.config
+c:\users\alfa_hm\documents\visual studio 2015\Projects\TA_MesinKasir\TA_MesinKasir\obj\Debug\TA_MesinKasir.csprojResolveAssemblyReference.cache
+c:\users\alfa_hm\documents\visual studio 2015\Projects\TA_MesinKasir\TA_MesinKasir\obj\Debug\TA_MesinKasir.Form1.resources
+c:\users\alfa_hm\documents\visual studio 2015\Projects\TA_MesinKasir\TA_MesinKasir\obj\Debug\TA_MesinKasir.Properties.Resources.resources
+c:\users\alfa_hm\documents\visual studio 2015\Projects\TA_MesinKasir\TA_MesinKasir\obj\Debug\TA_MesinKasir.csproj.GenerateResource.Cache
+c:\users\alfa_hm\documents\visual studio 2015\Projects\TA_MesinKasir\TA_MesinKasir\bin\Debug\TA_MesinKasir.exe
+c:\users\alfa_hm\documents\visual studio 2015\Projects\TA_MesinKasir\TA_MesinKasir\bin\Debug\TA_MesinKasir.pdb
+c:\users\alfa_hm\documents\visual studio 2015\Projects\TA_MesinKasir\TA_MesinKasir\obj\Debug\TA_MesinKasir.exe
+c:\users\alfa_hm\documents\visual studio 2015\Projects\TA_MesinKasir\TA_MesinKasir\obj\Debug\TA_MesinKasir.pdb
